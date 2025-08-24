@@ -1,0 +1,172 @@
+[
+  {
+    "ContainingType": "Appointment_Scheduler_API.Controllers.Appointment_SchedulerController",
+    "Method": "AddAvailability",
+    "RelativePath": "api/Appointment_Scheduler/AddAvailability",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Doctor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Start",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "End",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointment_Scheduler_API.Models.Appointment, Appointment Scheduler API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointment_Scheduler_API.Controllers.Appointment_SchedulerController",
+    "Method": "BookAppointment",
+    "RelativePath": "api/Appointment_Scheduler/BookAppointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Doctor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Patient",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Start",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "End",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointment_Scheduler_API.Models.Appointment, Appointment Scheduler API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointment_Scheduler_API.Controllers.Appointment_SchedulerController",
+    "Method": "ConfirmBooking",
+    "RelativePath": "api/Appointment_Scheduler/ConfirmBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Doctor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Patient",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Start",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "End",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointment_Scheduler_API.Models.Appointment, Appointment Scheduler API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointment_Scheduler_API.Controllers.Appointment_SchedulerController",
+    "Method": "GetConfirmedAppointments",
+    "RelativePath": "api/Appointment_Scheduler/GetConfirmedAppointments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Doctor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointment_Scheduler_API.Models.Appointment, Appointment Scheduler API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointment_Scheduler_API.Controllers.Appointment_SchedulerController",
+    "Method": "GetOpenAppointments",
+    "RelativePath": "api/Appointment_Scheduler/GetOpenAppointments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Doctor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointment_Scheduler_API.Models.Appointment, Appointment Scheduler API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

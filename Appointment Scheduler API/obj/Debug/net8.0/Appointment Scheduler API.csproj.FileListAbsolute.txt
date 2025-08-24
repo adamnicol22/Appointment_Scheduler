@@ -1,0 +1,35 @@
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\appsettings.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Appointment Scheduler API.staticwebassets.endpoints.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Appointment Scheduler API.exe
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Appointment Scheduler API.deps.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Appointment Scheduler API.runtimeconfig.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Appointment Scheduler API.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Appointment Scheduler API.pdb
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.csproj.AssemblyReference.cache
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.AssemblyInfoInputs.cache
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.AssemblyInfo.cs
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.csproj.CoreCompileInputs.cache
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\scopedcss\bundle\Appointment Scheduler API.styles.css
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointm.C9733867.Up2Date
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\refint\Appointment Scheduler API.dll
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.pdb
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\Appointment Scheduler API.genruntimeconfig.cache
+C:\Users\adamn\source\repos\Appointment Scheduler API\obj\Debug\net8.0\ref\Appointment Scheduler API.dll
